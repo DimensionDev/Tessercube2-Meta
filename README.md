@@ -15,6 +15,12 @@
 - [Tessercube2-Mac](https://github.com/DimensionDev/Tessercube2-Mac)
 - [Tessercube2-WebExt](https://github.com/DimensionDev/Tessercube2-WebExt)
 
+## Project Management Structure
+
+- [Tessercube2-Meta-RFC](https://github.com/DimensionDev/Tessercube2-Meta-RFC)
+  - Design specifications are posted here as issues.
+  - Product Requirement Documents should be codified in the repo.
+
 ## Copyright
 
 All implementations of Tessercube are published under GNU AGPL v3 license.
