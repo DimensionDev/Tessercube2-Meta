@@ -17,7 +17,7 @@
 
 ## Project Management Structure
 
-- [Tessercube2-Meta-RFC](https://github.com/DimensionDev/Tessercube2-Meta-RFC)
+- [Tessercube2-Meta-DSD](https://github.com/DimensionDev/Tessercube2-Meta-DSD)
   - Design specifications are posted here as issues.
   - Product Requirement Documents should be codified in the repo.
 
